@@ -1,0 +1,26 @@
+[
+  {
+    "name": "kamal",
+    "email": "kamal@gmail.com",
+    "password": "$2a$10$jZVTjGUyKN8veemaCWAkrOB.pB.00oFqFut2NVFoUV6F.hOhwZGZy",
+    "role": "dentist",
+    "_id": "78a5c16e-170e-474d-9a82-d8be14271fa4",
+    "createdAt": "2026-11-17T19:27:39.878Z"
+  },
+  {
+    "name": "nadun",
+    "email": "nadun@gmail.com",
+    "password": "$2a$10$hGjGMh7SnBemB9ldpKDUb.IMTI22ke1Ai5dZrCUNgPnJjZ53PkkAW",
+    "role": "patient",
+    "_id": "b4831243-48f0-434e-83c9-86c23cf7fda2",
+    "createdAt": "2026-11-17T19:28:26.964Z"
+  },
+  {
+    "name": "withanage",
+    "email": "withanaage@gmail.com",
+    "password": "$2a$10$0yCVSF7CSpOKCUIs6PGQvurQqzci7BZzW/i4GqNEI7M4G8VG.honO",
+    "role": "dentist",
+    "_id": "d01e14e9-2d1b-4c9e-b16e-87d7965d6fc4",
+    "createdAt": "2026-11-17T19:30:49.268Z"
+  }
+]
